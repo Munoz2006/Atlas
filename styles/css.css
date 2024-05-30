@@ -74,6 +74,7 @@ a{
     text-decoration: none;
 }
 .title1{
+    margin-top: 10px;
     font-size: 90px;
     width: 600px;
 }
@@ -82,6 +83,7 @@ a{
     font-size: 50px;
 }
 .texto1{
+    margin-top: 10px;
     width: 600px;
 }
 .nav1{
@@ -127,7 +129,7 @@ a{
     left: 1200px;
 }
 .btn1{
-    margin-top: 10px;
+    margin-top: 20px;
     background-color: rgb(0,255,173);
     border-radius: 50px;
     border-bottom: 50px;
@@ -273,4 +275,203 @@ footer{
     background-color: rgb(25,36,64);
     color: #fff;
     font-size: 20px;
+}
+@media screen and (max-width: 921px) {
+    header{
+        padding: 100px;
+        height: 200px;
+    }
+    .nav1{
+        top: -50px;
+    }
+    .title1{
+        font-size: 40px;
+        width: 300px;
+    }
+    .btn1{
+        height: 40px;
+        width: 100px;
+    }
+    #img1{
+        height: 80px;
+    }
+    .texto1{
+        font-size: 15px;
+        width: 400px;
+    }
+    .enlace1{
+        top: -70px;
+        left: 600px;
+        font-size: 13px;
+    }
+    .img1{
+        top: 50px;
+        left: 90px;
+        text-align: center;
+        font-size: 10px;
+    }
+    .img2{
+       top: -170px;
+       left: 350px;
+       text-align: center;
+       font-size: 10px;
+    }
+    .img3{
+        top: -390px;
+        left: 620px;
+        text-align: center;
+        font-size: 10px;
+    }
+    .sec3{
+        height: 300px;
+    }
+    .sec1{
+        height: 600px;
+    }
+    .sec2{
+        height: 600px;
+    }
+    .nav2{
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    .title2{
+        font-size: 40px;
+    }
+    #img2{
+        height: 200px;
+        left: 500px;
+    }
+    #img3{
+        height: 200px;
+        top: 180px;
+        right: 300px;
+    }
+    .nav3{
+        top: -80px;
+        left: 500px;
+    }
+    .nav4{
+        font-size: 20px;
+        padding: 50px;
+        top: -320px;
+        left: 50px;
+    }
+    .nav5{
+        font-size: 20px;
+        padding: 50px;
+        left: 325px;
+    }
+    .nav6{
+        font-size: 20px;
+        padding: 50px;
+        top: -630px;
+        left: 600px;
+    }
+    .btn3{
+        height: 40px;
+        width: 100px;
+    }
+    .sec4{
+        background-color: #e6e5e5;
+        height: 100px;
+    }
+    a{
+        left: 50px;
+        top: 30px;
+        margin: 20px;
+    }
+    #imgs{
+        height: 50px;
+    }
+    .nav7{
+        position: relative;
+        width: fit-content;
+        top: -50px;
+        right: 160px;
+    }
+    .contact{
+        font-size: 50px;
+    }
+    .p1{
+        font-size: 17px;
+    }
+    .p2{
+        font-size: 17px;
+    }
+    .p3{
+        margin-left: 50px;
+        top: 40px;
+    }
+    #seccion6-2{
+        top: -200px;
+        left: 100px;
+    }
+    #input2{
+        width: 370px;
+    }
+    .btn4{
+        width: 370px;
+    }
+    footer{
+        height: 100px;
+
+    }
+}
+@media screen and (max-width: 769px) {
+    header{
+        height: 100px;
+    }
+    .title1{
+        font-size: 20px;
+        width: 200px;
+    }
+    .texto1{
+        font-size: 12px;
+        width: 400px;
+    }
+    .btn1{
+        height: 40px;
+        width: 90px;
+    }
+    #img1{
+        right: 190px;
+        height: 60px;
+        top: -50px;
+    }
+    .nav1{
+        right: 50px;
+    }
+    .enlace1{
+        top: -70px;
+        left: 400px;
+        font-size: 13px;
+    }
+    .imgs{
+        height: 100px;
+    }
+    .img1{
+        top: 50px;
+        left: 50px;
+        text-align: center;
+        font-size: 10px;
+    }
+    .img2{
+       top: -110px;
+       left: 250px;
+       text-align: center;
+       font-size: 10px;
+    }
+    .img3{
+        top: -270px;
+        left: 450px;
+        text-align: center;
+        font-size: 10px;
+    }
+    .ps{
+        width: 150px;
+    }
+    .sec3{
+        height: 200px;
+    }
 }
