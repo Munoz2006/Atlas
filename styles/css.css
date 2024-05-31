@@ -474,4 +474,106 @@ footer{
     .sec3{
         height: 200px;
     }
+    .title2{
+        font-size: 30px;
+    }
+    .nav2{
+        margin-left: 30px;
+    }
+    .texto1{
+        width: 300px;
+    }
+    .btn2{
+        height: 30px;
+        width: 100px;
+    }
+    #img2{
+        height: 150px;
+        top: -150px;
+        left: 330px;
+    }
+    #img3{
+        height: 150px;
+        top: 100px;
+        right: 250px;
+    }
+    .nav3{
+        top: -110px;
+        left: 350px;
+    }
+    .sec1{
+        height: 500px;
+    }
+    .title2{
+        position: relative;
+        
+    }
+    .nav4{
+        padding: 20px;
+        font-size: 15px;
+        top: -230px;
+        left: 40px;
+    }
+    .nav5{
+        padding: 20px;
+        font-size: 15px;
+        left: 255px;
+    }
+    .nav6{
+        padding: 20px;
+        font-size: 15px;
+        top: -460px;
+        left: 470px;
+    }
+    .sec2{
+        height: 500px;
+    }
+    #check{
+        position: relative;
+        right: 50px;
+    }
+    .sec4{
+        height: 100px;
+    }
+    #imgs{
+        height: 40px;
+    }
+    .nav7{
+        position: relative;
+        width: fit-content;
+    }
+    .contact{
+        width: fit-content;
+        font-size: 30px;
+    }
+    .p2{
+        width: 250px;
+        font-size: 15px;
+    }
+    .p1{
+        font-size: 15px;
+    }
+    #seccion6-2{
+        margin-left: 0px;
+        left: 0px;
+    }
+    #input2{
+        width: 300px;
+        height: 50px;
+    }
+    #input3{
+        width: 100px;
+        height: 50px;
+    }
+    .inputN{
+        width: 100px;
+        height: 50px;
+    }
+    .btn4{
+        height: 30px;
+        width: 300px;
+    }
+    .sec5{
+        height: 100px;
+    }
 }
