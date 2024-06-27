@@ -5,6 +5,7 @@ body{
     margin: 0px;
 }
 header{
+    position: static;
     background-image:  url("../asstes/banner-bk.jpg");
     background-position: 0% ;
     padding: 200px;
@@ -26,7 +27,19 @@ header{
 .sec4{
     background-color: #e6e5e5;
     height: 200px;
-    
+    position: relative;
+    position: sticky;
+    bottom: 120px;
+}
+div{
+    position: absolute;
+    left: 700px;
+    top: 140px;
+    z-index: 1;
+
+}
+#img8{
+    height: 200px;
 }
 .sec5{
     background-image: url("../asstes/contact-bk.jpg");
@@ -37,6 +50,8 @@ header{
     color: #fff;
     margin: 0px;
     height: 200px;
+    position: relative;
+    z-index: -1;
 }
 a{
     position: relative;
